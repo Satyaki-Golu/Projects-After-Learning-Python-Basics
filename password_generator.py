@@ -65,7 +65,6 @@ def main():
 if __name__ == '__main__':
     main()
 
-
 '''
 ### Description about this code: 
 
@@ -77,4 +76,4 @@ to create a password at least one time (once).
 '''
 
 # You can find my code in this website link in case you want to use this code:
-# 
+# Created using PEP - 8 Stylings
