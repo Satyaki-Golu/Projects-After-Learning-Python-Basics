@@ -1,7 +1,6 @@
 # Projects After Learning Python Basics 🐍
 
-Welcome to my Python repository! This collection contains foundational console applications created after mastering the core basics of Python programming. Each project is engineered with comprehensive user input validation, complete cross-platform terminal control, and strict **PEP 8 style compliance**.
-
+Welcome to my Python repository! This collection contains foundational console applications created after mastering the core basics of Python programming. Each project is engineered with comprehensive user input validation, complete cross-platform terminal control, and stA
 ## 🚀 Projects Included
 
 ### 1. Interactive Command-Line Calculator
