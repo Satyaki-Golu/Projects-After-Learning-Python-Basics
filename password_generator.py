@@ -56,7 +56,7 @@ def main():
 
         if start == 'n':
             break
-            print('I am happy that you used my program 😀 chutia'
+            print('I am happy that you used my program 😀'
                   '\nThank you for using my program\n'
                   'created by Satyaki Debnath\n'
                   'created with following every PEP - 8 style\n'
